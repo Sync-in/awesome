@@ -12,7 +12,7 @@ A curated collection of tutorials, templates, and examples for the Sync-in ecosy
 
 Step-by-step guides to help you learn and build with Sync-in.
 
-- Coming soon
+- [Sync-in Server on openmediavault 8](https://github.com/Sync-in/awesome-sync-in/blob/main/tutorials/Sync-in%20on%20OMV%208.md)
 
 ## Templates
 
